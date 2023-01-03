@@ -1,0 +1,34 @@
+{
+    "notes": [
+        {
+            "noteText": "All events for SDK or etc...",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-101605589-0"
+        },
+        {
+            "noteText": "You can use for fast tests",
+            "show": true,
+            "typeName": "UnityEditor.MonoScript",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-1-31c39540a9a4cdb49a6810e74fd6abdd-11500000-0"
+        },
+        {
+            "noteText": "You can use for fast tests",
+            "show": true,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-187200180-0"
+        },
+        {
+            "noteText": "",
+            "show": false,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-1-db32a7091cdd3ce479f3eb18c6f5ffc8-4104953696132219533-0"
+        },
+        {
+            "noteText": "",
+            "show": false,
+            "typeName": "UnityEngine.GameObject",
+            "GlobalObjectSerialization": "GlobalObjectId_V1-2-9fc0d4010bbf28b4594072e72b8655ab-555500426270330341-0"
+        }
+    ]
+}
